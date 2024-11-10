@@ -1,6 +1,6 @@
 
 
-# Data Exploration, Preprocessing, and Modeling on Kaggle Datasets
+#Data Exploration, Preprocessing, and Modeling on Kaggle Datasets
 This project performs Exploratory Data Analysis (EDA), data cleaning, feature engineering, clustering, anomaly detection, and modeling on two datasets from Kaggle: one tabular dataset and one time series dataset. The goal is to gain insights through EDA and build predictive models using AutoML.
 
 Project Structure
